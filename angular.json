@@ -32,7 +32,7 @@
           },
           "configurations": {
             "production": {
-              "baseHref": "/angular-jenkins/",
+              "baseHref": "/angular-concepts/",
               "budgets": [
                 {
                   "type": "initial",
